@@ -1,0 +1,68 @@
+{
+	"fridges": [{
+			"id": 1,
+			"name": "Büro Kühlschrank",
+			"articles": [{
+				"id": 1,
+				"name": "Tomate",
+				"count": 2,
+				"category": "Gemüse"
+			}, {
+				"id": 2,
+				"name": "Gurke",
+				"count": 4,
+				"category": "Gemüse"
+			}, {
+				"id": 3,
+				"name": "Banane",
+				"count": 3,
+				"category": "Obst"
+			}, {
+				"id": 4,
+				"name": "Redbull",
+				"count": 13,
+				"category": "Getränke"
+			}, {
+				"id": 5,
+				"name": "Cola",
+				"count": 2,
+				"category": "Getränke"
+			}, {
+				"id": 6,
+				"name": "Frischkäse",
+				"count": 1,
+				"category": "Brotzeit"
+			}, {
+				"id": 7,
+				"name": "Salami",
+				"count": 1,
+				"category": "Brotzeit"
+			}, {
+				"id": 8,
+				"name": "Käse",
+				"count": 4,
+				"category": "Brotzeit"
+			}]
+		},
+		{
+			"id": 2,
+			"name": "Beaver-Kühlschrank",
+			"articles": [{
+				"id": 9,
+				"name": "Wasser",
+				"count": 3,
+				"category": "Getränke"
+			}, {
+				"id": 10,
+				"name": "Tiramisu",
+				"count": 2,
+				"category": "Dolce"
+			}, {
+				"id": 11,
+				"name": "Pudding",
+				"count": 2,
+				"category": "Dolce"
+			}]
+		}
+	]
+}
