@@ -1,68 +1,103 @@
 {
+    "articles": [{
+        "id": 1,
+        "name": "Tomate",
+        "count": 2,
+        "category": "Gemüse",
+        "fridgeId":1
+    }, {
+        "id": 2,
+        "name": "Gurke",
+        "count": 4,
+        "category": "Gemüse",
+        "fridgeId":1
+    }, {
+        "id": 3,
+        "name": "Banane",
+        "count": 3,
+        "category": "Obst",
+        "fridgeId":1
+    }, {
+        "id": 4,
+        "name": "Redbull",
+        "count": 13,
+        "category": "Getränke",
+        "fridgeId":1
+    }, {
+        "id": 5,
+        "name": "Cola",
+        "count": 2,
+        "category": "Getränke",
+        "fridgeId":1
+    }, {
+        "id": 6,
+        "name": "Frischkäse",
+        "count": 1,
+        "category": "Brotzeit",
+        "fridgeId":1
+    }, {
+        "id": 7,
+        "name": "Salami",
+        "count": 1,
+        "category": "Brotzeit",
+        "fridgeId":1
+    }, {
+        "id": 8,
+        "name": "Käse",
+        "count": 4,
+        "category": "Brotzeit",
+        "fridgeId":1
+    },{
+        "id": 9,
+        "name": "Wasser",
+        "count": 3,
+        "category": "Getränke",
+        "fridgeId":2
+    }, {
+        "id": 10,
+        "name": "Tiramisu",
+        "count": 2,
+        "category": "Dolce",
+        "fridgeId":2
+    }, {
+        "id": 11,
+        "name": "Pudding",
+        "count": 2,
+        "category": "Dolce",
+        "fridgeId":2
+    },{
+        "id": 12,
+        "name": "Bier",
+        "count": 12,
+        "category": "Getränke",
+        "fridgeId":4
+    }],
 	"fridges": [{
 			"id": 1,
 			"name": "Büro Kühlschrank",
-			"articles": [{
-				"id": 1,
-				"name": "Tomate",
-				"count": 2,
-				"category": "Gemüse"
-			}, {
-				"id": 2,
-				"name": "Gurke",
-				"count": 4,
-				"category": "Gemüse"
-			}, {
-				"id": 3,
-				"name": "Banane",
-				"count": 3,
-				"category": "Obst"
-			}, {
-				"id": 4,
-				"name": "Redbull",
-				"count": 13,
-				"category": "Getränke"
-			}, {
-				"id": 5,
-				"name": "Cola",
-				"count": 2,
-				"category": "Getränke"
-			}, {
-				"id": 6,
-				"name": "Frischkäse",
-				"count": 1,
-				"category": "Brotzeit"
-			}, {
-				"id": 7,
-				"name": "Salami",
-				"count": 1,
-				"category": "Brotzeit"
-			}, {
-				"id": 8,
-				"name": "Käse",
-				"count": 4,
-				"category": "Brotzeit"
-			}]
+            "brand":"Samsung",
+            "width":81,
+            "height":152
 		},
 		{
 			"id": 2,
 			"name": "Beaver-Kühlschrank",
-			"articles": [{
-				"id": 9,
-				"name": "Wasser",
-				"count": 3,
-				"category": "Getränke"
-			}, {
-				"id": 10,
-				"name": "Tiramisu",
-				"count": 2,
-				"category": "Dolce"
-			}, {
-				"id": 11,
-				"name": "Pudding",
-				"count": 2,
-				"category": "Dolce"
-			}]
+            "brand":"Miele",
+            "width":81,
+            "height":152
+		},
+        {
+			"id": 3,
+			"name": "Peters Kühlschrank",
+            "brand":"IKEA",
+            "width":40,
+            "height":80
+		},{
+			"id": 4,
+			"name": "Terassen-Kühlschrank",
+            "brand":"Dometic",
+            "width":35,
+            "height":55
 		}
 	]
 }
