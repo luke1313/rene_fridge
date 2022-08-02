@@ -1,0 +1,30 @@
+{
+	"fridges": [{
+			"id": 1,
+			"name": "Büro Kühlschrank",
+			"brand": "Samsung",
+			"width": 81,
+			"height": 152
+		},
+		{
+			"id": 2,
+			"name": "Beaver-Kühlschrank",
+			"brand": "Miele",
+			"width": 81,
+			"height": 152
+		},
+		{
+			"id": 3,
+			"name": "Peters Kühlschrank",
+			"brand": "IKEA",
+			"width": 40,
+			"height": 80
+		}, {
+			"id": 4,
+			"name": "Terassen-Kühlschrank",
+			"brand": "Dometic",
+			"width": 35,
+			"height": 55
+		}
+	]
+}
