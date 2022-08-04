@@ -98,6 +98,12 @@
             "brand":"Dometic",
             "width":35,
             "height":55
+		},{
+			"id": 5,
+			"name": "Testkühlschrank",
+            "brand":"Samsung",
+            "width":81,
+            "height":152
 		}
 	]
 }

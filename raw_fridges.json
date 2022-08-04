@@ -25,6 +25,12 @@
 			"brand": "Dometic",
 			"width": 35,
 			"height": 55
+		},{
+			"id": 1,
+			"name": "Test hinzugefügt",
+			"brand": "Samsung",
+			"width": 81,
+			"height": 152
 		}
 	]
 }
